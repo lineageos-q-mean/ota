@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1748975886,
-      "filename": "lineage-17.1-20250603-UNOFFICIAL-X00TD.zip",
-      "id": "72e84d16a6cd069f0d9f81452e6e1ce3",
+      "datetime": 1752144350,
+      "filename": "lineage-17.1-20250710-UNOFFICIAL-X00TD.zip",
+      "id": "cbce134cf129e289b88c50b37cd2b91e",
       "romtype": "UNOFFICIAL",
-      "size": 823074228,
-      "url": "https://royal-snowflake.regenerate.workers.dev/0:/LineageOS/lineage-17.1-20250603-UNOFFICIAL-X00TD.zip",
+      "size": 826192223,
+      "url": "https://royal-snowflake.regenerate.workers.dev/0:/LineageOS/lineage-17.1-20250710-UNOFFICIAL-X00TD.zip",
       "version": "17.1"
     }
   ]
